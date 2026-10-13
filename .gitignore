@@ -1,0 +1,48 @@
+# Configuración local y secretos
+.env
+.env.*
+!.env.example
+config/settings.local.json
+*.pem
+*.key
+*.pfx
+*.p12
+credentials*
+secrets*
+# Entornos y caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+# Fuentes y salidas de los proyectos
+data/
+output/
+outputs/
+reports/
+notebooks/
+*.csv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.pkl
+*.pickle
+*.joblib
+*.ipynb
+*.log
+*.sqlite
+*.db
+# Estado privado de herramientas y sesiones
+.codex/
+.claude/settings.local.json
+.rsc/
+.worktrees/
+local/
+tmp/
+# Sistema
+.DS_Store
+Thumbs.db

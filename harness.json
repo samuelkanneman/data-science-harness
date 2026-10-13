@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "name": "data-science-harness",
+  "version": "0.1.0",
+  "language": "es-AR",
+  "owner": "Samuel Kanneman",
+  "status": "primera_subida_pendiente_push",
+  "created_on": "2026-10-13",
+  "python_minimum": "3.10",
+  "license_status": "pendiente_de_eleccion",
+  "repository_url": "https://github.com/samuelkanneman/data-science-harness",
+  "skills": [
+    {
+      "id": "brujula",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/brujula/SKILL.md",
+      "definition": "docs/roles/brujula.md"
+    },
+    {
+      "id": "veta",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/veta/SKILL.md",
+      "definition": "docs/roles/veta.md"
+    },
+    {
+      "id": "lupa",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/lupa/SKILL.md",
+      "definition": "docs/roles/lupa.md"
+    },
+    {
+      "id": "forja",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/forja/SKILL.md",
+      "definition": "docs/roles/forja.md"
+    },
+    {
+      "id": "juez",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/juez/SKILL.md",
+      "definition": "docs/roles/juez.md"
+    },
+    {
+      "id": "cosecha",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/cosecha/SKILL.md",
+      "definition": "docs/roles/cosecha.md"
+    },
+    {
+      "id": "prevision",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/prevision/SKILL.md",
+      "definition": "docs/roles/prevision.md"
+    },
+    {
+      "id": "vitrina",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/vitrina/SKILL.md",
+      "definition": "docs/roles/vitrina.md"
+    },
+    {
+      "id": "maquinista",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/maquinista/SKILL.md",
+      "definition": "docs/roles/maquinista.md"
+    },
+    {
+      "id": "centinela",
+      "kind": "rol",
+      "entrypoint": ".agents/skills/centinela/SKILL.md",
+      "definition": "docs/roles/centinela.md"
+    },
+    {
+      "id": "cierre",
+      "kind": "procedimiento",
+      "entrypoint": ".agents/skills/cierre/SKILL.md",
+      "definition": "docs/procedimientos/cierre.md"
+    },
+    {
+      "id": "ksauc",
+      "kind": "procedimiento",
+      "entrypoint": ".agents/skills/ksauc/SKILL.md",
+      "definition": "docs/procedimientos/ksauc.md"
+    },
+    {
+      "id": "eda-mensual",
+      "kind": "procedimiento",
+      "entrypoint": ".agents/skills/eda-mensual/SKILL.md",
+      "definition": "docs/procedimientos/eda-mensual.md"
+    },
+    {
+      "id": "vintage",
+      "kind": "procedimiento",
+      "entrypoint": ".agents/skills/vintage/SKILL.md",
+      "definition": "docs/procedimientos/vintage.md"
+    },
+    {
+      "id": "nuevo-eda",
+      "kind": "procedimiento",
+      "entrypoint": ".agents/skills/nuevo-eda/SKILL.md",
+      "definition": "docs/procedimientos/nuevo-eda.md"
+    },
+    {
+      "id": "nuevo-dashboard",
+      "kind": "procedimiento",
+      "entrypoint": ".agents/skills/nuevo-dashboard/SKILL.md",
+      "definition": "docs/procedimientos/nuevo-dashboard.md"
+    },
+    {
+      "id": "html-desde-eda",
+      "kind": "procedimiento",
+      "entrypoint": ".agents/skills/html-desde-eda/SKILL.md",
+      "definition": "docs/procedimientos/html-desde-eda.md"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "riesgo-crediticio",
+      "entrypoint": "docs/perfiles/riesgo-crediticio/README.md",
+      "optional": true
+    }
+  ],
+  "source_snapshot": [
+    {
+      "id": "AGENTS.md",
+      "sha256": "0ba3be1a37172873f95b8a43e33d4ff4bacb64afdcde3dc4398dbf14e39924fb"
+    },
+    {
+      "id": "WIKI/AGENTES.md",
+      "sha256": "3371861596231cf8f86688ad0547d79d54763c792a9b78d5cb1474cd1a18d710"
+    },
+    {
+      "id": "WIKI/CODEX.md",
+      "sha256": "9fad5141bde49e0e04bf9c244c969210c4183ea4bb613913a418e97e7ba4cbae"
+    },
+    {
+      "id": "WIKI/CONVENCIONES.md",
+      "sha256": "1322c6bd36693fe25103fe3b8ad23cf2ce55c3fb71e21dde282097fac6ddf928"
+    },
+    {
+      "id": "WIKI/DEFINICIONES.md",
+      "sha256": "fc55f2a668cb50352dcbc70008764ef0aef4bbb5125e95cf89a8d120a380e62e"
+    },
+    {
+      "id": "WIKI/GOTCHAS.md",
+      "sha256": "2fd413b318720ff7cd8bfef326d9ed0e9ddbcc81a04cdd4de500c73deddad85b"
+    },
+    {
+      "id": "WIKI/GLOSARIO.md",
+      "sha256": "c6058056a9bce5236f301dd6a74307a8f8c1467abea73b89fa299d3a3136258c"
+    },
+    {
+      "id": "WIKI/referencia/auditoria_ds.md",
+      "sha256": "d3e3f536d341981197f833e08f5241d6d35aa840f4fc3031aefe28b82e9b761c"
+    },
+    {
+      "id": "WIKI/agentes/brujula.md",
+      "sha256": "bd5b26ed586046be5f3026b6860978d34996d4d57418d04f895ee5ad20167f3f"
+    },
+    {
+      "id": "WIKI/agentes/centinela.md",
+      "sha256": "4c2ac4c091282a4f555bcad1eab63578c8379f8d11b2dc2caafc6d851fadda7c"
+    },
+    {
+      "id": "WIKI/agentes/cosecha.md",
+      "sha256": "5cb814dc9f5b3f52360577cb83b52860d4092d4d3ee226d73d950ba524b20fb2"
+    },
+    {
+      "id": "WIKI/agentes/forja.md",
+      "sha256": "6897b3ebe918c01399a50261e521851184b709f1951e9c971c9aa1409df5b4ab"
+    },
+    {
+      "id": "WIKI/agentes/juez.md",
+      "sha256": "ccbda0165da0aba0147c961ca8a31c7ba68d20e7b7040f998497d27e45668fa0"
+    },
+    {
+      "id": "WIKI/agentes/lupa.md",
+      "sha256": "a2bf0986a34eefb20da6db3bd68d5ea0fb33dba11466fbf40c33a5b28b8c1a84"
+    },
+    {
+      "id": "WIKI/agentes/maquinista.md",
+      "sha256": "5a1452606dff13f3bbbf605e9bd927f976a62e92709e49176e18479850c795f1"
+    },
+    {
+      "id": "WIKI/agentes/prevision.md",
+      "sha256": "7c5bdcc25a0f4a11df00c203688bbed9e42c46db0111d194294e84fb915353bb"
+    },
+    {
+      "id": "WIKI/agentes/veta.md",
+      "sha256": "02eb074d4e9155ac68784d7edec591b61ca7cfa7c26ff01e24958b19f37b5e98"
+    },
+    {
+      "id": "WIKI/agentes/vitrina.md",
+      "sha256": "4f6b1dcf4308d1ccbc37805abe72a9d4cfb9fbcbad5ccf2c9c7ce7770f948a5a"
+    },
+    {
+      "id": "WIKI/procedimientos/cierre.md",
+      "sha256": "a357783f363ec9a9b1dce6dad8558065af49081195bc775a15961cf3ac551396"
+    },
+    {
+      "id": "WIKI/procedimientos/eda-mensual.md",
+      "sha256": "32a4aed6b13c118e604bf76f6ccce1258b90a7d2837c68ad38ad4eaca59b5c53"
+    },
+    {
+      "id": "WIKI/procedimientos/html-desde-eda.md",
+      "sha256": "c25ad27d778ff1a850caef0da19e865123ca4723ab7912e3cf79ef5779dba59e"
+    },
+    {
+      "id": "WIKI/procedimientos/ksauc.md",
+      "sha256": "ec99046a6104b7a4371e277e6d954ba55b76f038d8d73dcd8d9f01dc3fa67e33"
+    },
+    {
+      "id": "WIKI/procedimientos/nuevo-dashboard.md",
+      "sha256": "5524db24961366ab291ead164cb4d38a40f52e3c5f2b50cff86a7404e1495ea2"
+    },
+    {
+      "id": "WIKI/procedimientos/nuevo-eda.md",
+      "sha256": "6dcc878ec91319208c515ab899260efd7ab3b19fdf434ef6544ef11d60c9626a"
+    },
+    {
+      "id": "WIKI/procedimientos/vintage.md",
+      "sha256": "a71a43b62682b3d1f7352fb031af0610a1a04a6f27b55bdc7a1519a97b1d8279"
+    },
+    {
+      "id": "WIKI/plantillas/AGENTS.md",
+      "sha256": "2e2da4e7613d419f588c713207ac7ee3fc22b6e98886b8a9d091518d089dab17"
+    },
+    {
+      "id": "WIKI/plantillas/BITACORA.md",
+      "sha256": "0abeed394274faf7abb06f0064564e713ef89ba200b9d59dbd387412f3b9d9e7"
+    },
+    {
+      "id": "WIKI/plantillas/DICCIONARIO_DATOS.md",
+      "sha256": "5538b3243069fbbcc7ef3532104ac0ee5a6d91c9b6204ba306b2d5a2fa6920f5"
+    }
+  ],
+  "external_references": [
+    {
+      "name": "rsc-harness",
+      "url": "https://github.com/ericrisco/rsc-harness",
+      "version": "3.0.22",
+      "commit": "5343ea565c39c00d329793606e8d609da2faa004",
+      "use": "Ideas atribuidas; sin scripts o skills del catálogo copiados."
+    }
+  ],
+  "validation_scope": [
+    "estructura y referencias offline",
+    "pruebas del verificador"
+  ],
+  "behavioral_evaluation_status": "pendiente",
+  "operational_validation_status": "no_aplica_al_paquete"
+}

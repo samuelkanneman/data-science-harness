@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "status": "plantilla_sin_ejecutar",
+  "run_id": null,
+  "project": null,
+  "requested_scope": null,
+  "dataset_contract": {
+    "source_version": null,
+    "unit": null,
+    "key": [],
+    "population": null,
+    "exclusions": [],
+    "period": null,
+    "cutoff": null,
+    "target_or_metric": null,
+    "window": null,
+    "definition_version": null
+  },
+  "execution": {
+    "started_at": null,
+    "finished_at": null,
+    "timezone": null,
+    "command": null,
+    "interpreter": null,
+    "code_version": null,
+    "parameters": {},
+    "exit_code": null
+  },
+  "input_checks": [],
+  "outputs": [],
+  "observed_evidence": [],
+  "checks_not_run": [],
+  "limitations": [],
+  "next_step": null
+}
