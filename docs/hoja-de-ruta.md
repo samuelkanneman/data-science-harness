@@ -7,7 +7,7 @@
 - [x] Preparar comprobaciones estructurales y escenarios offline.
 - [x] Destino indicado: samuelkanneman/data-science-harness; repositorio existente público.
 - [ ] Elegir licencia si se va a distribuir públicamente.
-- [ ] Completar autenticación, crear el remoto, primer commit y push; subida autorizada el 2026-10-13.
+- [x] Completar autenticación, configurar el remoto y subir main; publicación verificada el 2026-10-13.
 
 ## Próximos pilotos
 

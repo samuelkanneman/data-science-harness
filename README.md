@@ -14,11 +14,11 @@ Esta primera versión portable conserva prácticas desarrolladas en un workspace
 - Casos offline para evaluar decisiones de los agentes.
 - Un verificador de estructura, referencias y señales de contenido que no debe publicarse.
 
-El paquete no modifica la configuración personal de ningún asistente ni ejecuta pipelines al abrirse. Destino: [samuelkanneman/data-science-harness](https://github.com/samuelkanneman/data-science-harness), repositorio público elegido para la primera subida. La licencia de distribución sigue pendiente de elección.
+El paquete no modifica la configuración personal de ningún asistente ni ejecuta pipelines al abrirse. Publicado en [samuelkanneman/data-science-harness](https://github.com/samuelkanneman/data-science-harness), repositorio público independiente. La licencia de distribución sigue pendiente de elección.
 
 ## Empezar
 
-1. Clonar el repositorio cuando esté publicado y abrirlo con el asistente elegido.
+1. Clonar el repositorio y abrirlo con el asistente elegido.
 2. Leer [AGENTS.md](AGENTS.md) y el [índice](docs/indice.md).
 3. Usar el [método](docs/metodo.md) y el perfil correspondiente a la tarea.
 4. Para aplicar el harness en otro proyecto, seguir [uso y adopción](docs/uso.md).

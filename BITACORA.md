@@ -1,5 +1,13 @@
 # Bitácora — data-science-harness
 
+## 2026-10-13 — Primera subida verificada
+
+- Publicado el paquete completo en https://github.com/samuelkanneman/data-science-harness, repositorio independiente público indicado por Samuel.
+- Commit inicial: 65db3afd7734684303e2189d34a679a9bde559ba, con 69 archivos y rama main.
+- Verificado por Git y API GitHub: SHA local igual a main remoto y 69 archivos presentes. El árbol de trabajo quedó limpio tras el commit inicial.
+- Actualizados el estado vigente, la hoja de ruta y las referencias de publicación. Se conserva la evidencia histórica de la preparación local.
+- Pendientes: ejecutar escenarios con agentes, comprobar skills en otra sesión y elegir licencia para distribución. No se instalaron herramientas ni se ejecutaron pipelines de negocio.
+
 ## 2026-10-13 — Subida autorizada al remoto propio
 
 - Samuel pidió subir el paquete completo a un repositorio propio.

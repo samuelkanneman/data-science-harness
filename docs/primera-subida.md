@@ -2,7 +2,7 @@
 
 Nombre elegido: data-science-harness. Tipo: repositorio independiente.
 
-Destino indicado por Samuel: [samuelkanneman/data-science-harness](https://github.com/samuelkanneman/data-science-harness). Visibilidad observada: pública. La subida está autorizada; autenticación y push siguen pendientes.
+Destino indicado por Samuel: [samuelkanneman/data-science-harness](https://github.com/samuelkanneman/data-science-harness). Visibilidad observada: pública. Primera subida completada el 2026-10-13: main y los 69 archivos se verificaron en GitHub.
 
 ## Paquete a revisar
 
@@ -17,8 +17,8 @@ Antes de publicar:
 5. Comprobar que el estado Git contiene únicamente los archivos de este paquete.
 6. Con autorización para la subida, crear el commit inicial, configurar el remoto y realizar el push.
 
-## Alcance de esta etapa
+## Resultado y límites
 
-La preparación local no crea un repositorio en GitHub, no hace commits y no publica. El futuro clon conservará este paquete; la activación en cada herramienta y las conexiones de datos se prueban por separado.
+La preparación inicial fue local; la subida posterior se realizó mediante pedido explícito de Samuel. El primer commit publicado fue 65db3afd7734684303e2189d34a679a9bde559ba. Se comprobó igualdad entre HEAD local y main remoto, además de los 69 archivos mediante la API GitHub. La activación en cada herramienta y las conexiones de datos se prueban por separado.
 
 Un fork de rsc tendría sentido para mantener cambios de su implementación y colaborar con su upstream. La metodología propia tiene estructura, dominio y evolución independientes; se conserva la referencia y la atribución en [procedencia](referencias.md).

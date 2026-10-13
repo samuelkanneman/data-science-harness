@@ -1,7 +1,8 @@
 # AGENTS.md — data-science-harness
 
 **Objetivo:** conservar y evolucionar una metodología portable para trabajar con agentes en ciencia de datos, con evidencia de ejecución y validez del análisis.
-**Estado:** ACTIVO, preparación inicial · 2026-10-13 · responsable: brujula.
+**Estado:** ACTIVO, publicado en GitHub · 2026-10-13 · responsable: brujula.
+**Repositorio:** https://github.com/samuelkanneman/data-science-harness (público).
 
 ## Inicio
 
